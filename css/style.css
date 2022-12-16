@@ -1,0 +1,38 @@
+body {
+  background-color: #D5E1EF;
+}
+
+div {
+  width: 320px;
+  height: 497px;
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  padding: 16px;
+  margin-left: 680px;
+  margin-top: 152px;
+}
+
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.head {
+  font-weight: 700;
+  font-size: 22px;
+  text-align: center;
+
+}
+.text {
+  font-family: 'Outfit';
+  font-style: normal;
+  color: #7D889E;
+  padding-right: 32px;
+  padding-left: 32px;
+  font-size: 15px;
+  font-weight: 400px;
+  text-align: center;
+
+
+}
